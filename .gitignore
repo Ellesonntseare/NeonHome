@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+local.properties
+build/
+app/build/
+build-local/
+*.iml
+
+node_modules/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+certs/
